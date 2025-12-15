@@ -63,10 +63,11 @@ Developed by: PERARASU RegisterNumber:25004665
 <img width="1018" height="426" alt="image" src="https://github.com/user-attachments/assets/1148dc4c-d6f9-41d7-b6af-774cd91d6102" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
-<img width="1408" height="256" alt="Screenshot 2025-11-22 205238" src="https://github.com/user-attachments/assets/79a8f712-8438-4bd0-983c-ed0bda6a78b8" />
+![image](https://github.com/user-attachments/assets/88511d8e-55c0-47df-80cb-f639a0cea23b)
 
 **TRUTH TABLE**
-<img width="901" height="297" alt="image" src="https://github.com/user-attachments/assets/2051975d-898b-4d13-b978-598e6afda914" />
+![image](https://github.com/user-attachments/assets/0fb8b9e7-90ef-4bd0-ad9c-264bcf904281)
+
 
 **RESULTS**
 Hence a 4 bit synchronous up counter is implemented correctly.
